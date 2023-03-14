@@ -1,3 +1,5 @@
+<img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+
 - 👋 Hi，我是Li，欢迎访问我的仓库
 - ⌚ GitHub更新记录
   - 2020-2023年 第一次使用GitHub，后由于个人用户名部分内容存在泄漏个人隐私风险，因此注销
