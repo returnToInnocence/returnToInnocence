@@ -9,4 +9,4 @@
 - 📫 如果您对我博客中所涉及到的技术想要进一步讨论或者指出我的错误，期待您通过我的QQ-email或者我的博客评论区（最后也和我的邮箱绑定😂）和我联系  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=returnToInnocence&langs_count=8&layout=compact&&exclude_repo=returnToInnocence,MyBlogHugoComment)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=returnToInnocence&langs_count=8&layout=compact&&exclude_repo=returnToInnocence,returnToInnocence.github.io,MyBlogHugoComment)](https://github.com/anuraghazra/github-readme-stats)
