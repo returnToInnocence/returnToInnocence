@@ -1,4 +1,4 @@
-<img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 - 👋 Hi，我是Li，欢迎访问我的仓库
 - ⌚ GitHub更新记录
