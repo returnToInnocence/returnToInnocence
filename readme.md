@@ -10,5 +10,5 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=returnToInnocence&langs_count=8&layout=compact&&exclude_repo=returnToInnocence,returnToInnocence.github.io,MyBlogHugoComment)](https://github.com/anuraghazra/github-readme-stats)  
----
+
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
