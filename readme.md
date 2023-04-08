@@ -1,5 +1,5 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&multiline=true&width=700&height=100&lines=Welcome!+I'm+Li%2C+a+young+man+who+wants+to+be+a+Geek~)](https://git.io/typing-svg)
 - 👋 Hi，我是Li，欢迎访问我的仓库
 - ⌚ GitHub更新记录
   - 2020-2023年 第一次使用GitHub，后由于个人用户名部分内容存在泄漏个人隐私风险，因此注销
