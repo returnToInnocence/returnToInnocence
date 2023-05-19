@@ -15,6 +15,6 @@
 - 🌱 我的主要学习的大方向目前是“分布式”，至于是“计算”or“存储”，其实我还没有真的定下来
 - 📫 如果您对我博客中所涉及到的技术想要进一步讨论或者指出我的错误，期待您通过我的QQ-email或者我的博客评论区（最后也和我的邮箱绑定😂）和我联系  
 
-<img align="right" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif](https://github-readme-stats.vercel.app/api/top-langs/?username=returnToInnocence&langs_count=8&layout=donut-vertical&exclude_repo=returnToInnocence.github.io" />  
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=returnToInnocence&langs_count=8&layout=donut-vertical&exclude_repo=returnToInnocence.github.io" />  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=returnToInnocence&langs_count=8&layout=donut-vertical&exclude_repo=returnToInnocence.github.io)]()
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />  
