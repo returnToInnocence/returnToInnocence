@@ -1,9 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&multiline=true&width=700&height=50&lines=Welcome!+I'm+Li%2C+a+young+man+who+wants+to+be+a+Geek~" alt="Typing SVG" /></a>  
 
-
-
-
-
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=returnToInnocence&langs_count=8&layout=donut-vertical&exclude_repo=returnToInnocence.github.io" />  
 
 - 👋 Hi，我是Li，欢迎访问我的仓库
