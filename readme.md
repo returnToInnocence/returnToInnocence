@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=returnToInnocence&langs_count=8&layout=donut-vertical&exclude_repo=returnToInnocence.github.io" />  
 
-- 👋 Hi，我是Li，欢迎访问我的仓库
+- 👋 Hi，我是小李，欢迎访问我的仓库
 - ⌚ GitHub更新记录
   - 2020-2023年 第一次使用GitHub，后由于个人用户名部分内容存在泄漏个人隐私风险，因此注销，更换名称
   - 2023-2024年 注销后重新创建用户，将部分内容迁移至此仓库
