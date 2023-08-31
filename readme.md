@@ -1,7 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&multiline=true&width=700&height=50&lines=Welcome!+I'm+Li%2C+a+young+man+who+wants+to+be+a+Geek~" alt="Typing SVG" /></a>  
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=returnToInnocence&hide=html,css&langs_count=10&layout=donut-vertical&exclude_repo=returnToInnocence.github.io" />  
-
 - 👋 Hi，我是小李，欢迎访问我的仓库
 - ⌚ GitHub更新记录
   - 2020-2023年 第一次使用GitHub，后由于个人用户名部分内容存在泄漏个人隐私风险，因此注销，更换名称
