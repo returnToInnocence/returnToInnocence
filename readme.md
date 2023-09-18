@@ -10,4 +10,4 @@
 - 🌱 我目前主要聚焦于 LLM 的应用生态~
 - 📫 如果您对我博客中所涉及到的技术想要进一步讨论或者指出我的错误，期待您通过我的 Email 或者我的博客评论区（最后也和我的邮箱绑定😂）和我联系  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=returnToInnocence&layout=donut&hide=html,css,Jupyter Notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=returnToInnocence&layout=donut&hide=html,css,Jupyter)](https://github.com/anuraghazra/github-readme-stats)
