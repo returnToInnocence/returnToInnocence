@@ -11,6 +11,6 @@
 - 🌱 感谢能有机会让我逐步真正意识到自己能力的浅薄和辣鸡，在没有真正看到大门之前，我暂时还是不枉谈自己有xxx研究方向了🤡
 - 📫 如果您对我的仓库中所涉及到的技术想要进一步讨论或者指出我的错误，期待您通过我的 Email 与我联系
 
-  <div align="center" style="positon:absolute; right:0;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=returnToInnocence&layout=compact&theme=synthwave" />
-  </div>
+<div align="right" style="positon:absolute; right:0;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=returnToInnocence&layout=compact&theme=synthwave" />
+</div>
