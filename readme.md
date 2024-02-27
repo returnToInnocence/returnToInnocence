@@ -1,5 +1,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&multiline=true&width=700&height=50&lines=Welcome!+I'm+Li%2C+a+young+man+who+wants+to+be+a+Geek~" alt="Typing SVG" /></a>  
 
+<div align="right" style="positon:absolute; right:0;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=returnToInnocence&layout=compact&theme=synthwave" />
+</div>
+
 - 👋 Hi，我是小李，欢迎访问我的仓库
 - ⌚ GitHub 更新记录
   - 2020-2023 年 第一次使用 GitHub，后由于个人用户名部分内容存在泄漏个人隐私风险，因此注销，更换名称(当时我自己脑子有毛病😂，其实明明不用的，多此一举了)
@@ -11,6 +15,4 @@
 - 🌱 感谢能有机会让我逐步真正意识到自己能力的浅薄和辣鸡，在没有真正看到大门之前，我暂时还是不枉谈自己有xxx研究方向了🤡
 - 📫 如果您对我的仓库中所涉及到的技术想要进一步讨论或者指出我的错误，期待您通过我的 Email 与我联系
 
-<div align="right" style="positon:absolute; right:0;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=returnToInnocence&layout=compact&theme=synthwave" />
-</div>
+
