@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&multiline=true&width=700&height=50&lines=Welcome!+I'm+Li%2C+a+young+man+who+wants+to+be+a+Geek~" alt="Typing SVG" /></a>  
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=returnToInnocence&layout=compact&theme=synthwave" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=returnToInnocence&layout=compact&theme=synthwave&hide=HTML,CSS" />
 
 
 
