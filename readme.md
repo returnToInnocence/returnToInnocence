@@ -14,9 +14,9 @@
 - 🌱 本人能力着实浅薄，就不枉谈自己有xxx研究方向了
 - 📫 如果您对我的仓库中所涉及到的技术想要进一步讨论或者指出我的错误，期待您通过我的 Email 与我联系
 
-<img align="left" style="height:200px;" src="https://github-readme-stats.vercel.app/api?username=returnToInnocence&show_icons=true&bg_color=00000000" />
+<img align="left" style="height:150px;" src="https://github-readme-stats.vercel.app/api?username=returnToInnocence&show_icons=true&bg_color=00000000" />
 
-<img align="left" style="height:200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=returnToInnocence&layout=compact&theme=synthwave&hide=HTML,CSS" />
+<img align="left" style="height:150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=returnToInnocence&layout=compact&theme=synthwave&hide=HTML,CSS" />
 
 
 
