@@ -1,7 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&multiline=true&width=700&height=50&lines=Welcome!+I'm+Li%2C+a+young+man+who+wants+to+be+a+Geek~" alt="Typing SVG" /></a>  
 
-
-
+# 基本信息
 
 - 👋 Hi，我是 HongJun Li，欢迎访问我的仓库
 - ⌚ GitHub 更新记录
@@ -18,7 +17,25 @@
 
 <img align="left" style="height:150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=returnToInnocence&layout=compact&theme=synthwave&hide=HTML,CSS" />
 
+# commit message type
 
+> 用于规范化历次提交内容改动类型
+
+1. build：主要目的是修改项目构建系统(例如 glup，webpack，rollup 的配置等)的提交
+2. ci：主要目的是修改项目继续集成流程(例如 Travis，Jenkins，GitLab CI，Circle等)的提交
+3. docs：文档更新
+4. feat：新增功能
+5. fix：bug 修复
+6. perf：性能优化
+7. refactor：重构代码(既没有新增功能，也没有修复 bug)
+8. style：不影响程序逻辑的代码修改(修改空白字符，补全缺失的分号等)
+9. test：新增测试用例或是更新现有测试
+10. revert：回滚某个更早之前的提交
+11. chore：不属于以上类型的其他类型
+
+## 参考资料
+
+- [ Angular commit message guidelines](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-guidelines)
 
 
 
