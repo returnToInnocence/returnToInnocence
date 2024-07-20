@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&multiline=true&width=700&height=50&lines=Welcome!+I'm+Li%2C+a+young+man+who+wants+to+be+a+Geek~" alt="Typing SVG" /></a>  
 
-# 基本信息
+# 1 基本信息
 
 - 👋 Hi，我是 HongJun Li，欢迎访问我的仓库
 - ⌚ GitHub 更新记录
@@ -13,11 +13,7 @@
 - 🌱 本人能力着实浅薄，就不枉谈自己有xxx研究方向了
 - 📫 如果您对我的仓库中所涉及到的技术想要进一步讨论或者指出我的错误，期待您通过我的 Email 与我联系
 
-<img align="left" style="height:150px;" src="https://github-readme-stats.vercel.app/api?username=returnToInnocence&show_icons=true&bg_color=00000000" />
-
-<img align="left" style="height:150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=returnToInnocence&layout=compact&theme=synthwave&hide=HTML,CSS" />
-
-# commit message type
+# 2 commit message type
 
 > 用于规范化历次提交内容改动类型
 
@@ -33,11 +29,13 @@
 10. revert：回滚某个更早之前的提交
 11. chore：不属于以上类型的其他类型
 
-## 参考资料
+## 2.1 参考资料
 
 - [ Angular commit message guidelines](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-guidelines)
 
+<img align="left" style="height:150px;" src="https://github-readme-stats.vercel.app/api?username=returnToInnocence&show_icons=true&bg_color=00000000" />
 
+<img align="left" style="height:150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=returnToInnocence&layout=compact&theme=synthwave&hide=HTML,CSS" />
 
 
 
