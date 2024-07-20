@@ -15,7 +15,7 @@
 
 # 2 commit message type
 
-> 用于规范化历次提交内容改动类型
+> 用于规范化历次提交内容改动类型，同时也是提醒自己每个 commit 要认真对待，干净的 commit 有利于大家交流
 
 1. build：主要目的是修改项目构建系统(例如 glup，webpack，rollup 的配置等)的提交
 2. ci：主要目的是修改项目继续集成流程(例如 Travis，Jenkins，GitLab CI，Circle等)的提交
