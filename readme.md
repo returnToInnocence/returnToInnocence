@@ -32,6 +32,7 @@
 ## 2.1 参考资料
 
 - [ Angular commit message guidelines](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-guidelines)
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
 <img align="left" style="height:150px;" src="https://github-readme-stats.vercel.app/api?username=returnToInnocence&show_icons=true&bg_color=00000000" />
 
