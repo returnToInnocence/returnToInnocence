@@ -1,5 +1,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&multiline=true&width=700&height=50&lines=Welcome!+I'm+Li%2C+a+young+man+who+wants+to+be+a+Geek~" alt="Typing SVG" /></a>  
 
+<img align="left" style="height:150px;" src="https://github-readme-stats.vercel.app/api?username=returnToInnocence&show_icons=true&bg_color=00000000" />
+
+<img  style="height:150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=returnToInnocence&layout=compact&theme=synthwave&hide=HTML,CSS" />
+
 # 1 基本信息
 
 - 👋 Hi，我是 HongJun Li，欢迎访问我的仓库
@@ -27,9 +31,6 @@
 - [ Angular commit message guidelines](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-guidelines)
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
-<img align="left" style="height:150px;" src="https://github-readme-stats.vercel.app/api?username=returnToInnocence&show_icons=true&bg_color=00000000" />
-
-<img align="left" style="height:150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=returnToInnocence&layout=compact&theme=synthwave&hide=HTML,CSS" />
 
 
 
