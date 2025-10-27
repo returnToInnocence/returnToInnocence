@@ -1,14 +1,14 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&multiline=true&width=700&height=50&lines=Welcome!+I'm+Li%2C+a+young+man+who+wants+to+be+a+Geek~" alt="Typing SVG" /></a>  
 
-<img align="left" style="height:150px;" src="https://github-readme-stats.vercel.app/api?username=returnToInnocence&show_icons=true&bg_color=00000000" />
-
-<img  style="height:150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=returnToInnocence&layout=compact&theme=synthwave&hide=HTML,CSS" />
-
 # 1 基本信息
 
 - 👋 Hi，我是 HongJun Li，欢迎访问我的仓库
 - 🌱 对于高性能计算领域有着浓厚的兴趣
 - 📫 如果您对我的仓库中所涉及到的技术想要进一步讨论或者指出我的错误，期待您通过我的 Email 与我联系
+
+<img align="left" style="height:150px;" src="https://github-readme-stats.vercel.app/api?username=returnToInnocence&show_icons=true&bg_color=60,163E99,904e95&icon_color=24A6F2&title_color=fff&text_color=fff" />
+
+<img  style="height:150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=returnToInnocence&layout=compact&theme=synthwave&hide=HTML,CSS" />
 
 # 2 commit message type
 
