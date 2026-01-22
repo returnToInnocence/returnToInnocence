@@ -1,10 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&multiline=true&width=700&height=50&lines=I'm+Hongjun%2C+a+young+man+who+wants+to+be+a+Geek~" alt="Typing SVG" /></a>  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=5000&size=35&duration=3000&pause=500&color=0F93FF&center=true&vCenter=true&width=805&lines=Hongjun+%7C+Where+code+meets+physics+at+scale" alt="Typing SVG" /></a>
 
-# 1 基本信息
-
-- 👋 Hi，我是 HongJun Li，欢迎访问我的仓库
-- 🌱 对于高性能计算领域有着浓厚的兴趣
-- 📫 如果您对我的仓库中所涉及到的技术想要进一步讨论或者指出我的错误，期待您通过我的 Email 与我联系
+📫 如果您对我的工作感兴趣，期待您通过 Email 与我联系
 
 <a href="#-my-statistics" rel="noopener noreferrer">
   <picture>
@@ -68,7 +64,7 @@
   </picture>
 </a>
 
-# 2 commit message type
+# 0x01 commit message type
 
 > 用于规范化历次提交内容改动类型，同时也是提醒自己每个 commit 要认真对待，干净的 commit 有利于大家交流
 
@@ -84,7 +80,7 @@
 10. revert：回滚某个更早之前的提交
 11. chore：不属于以上类型的其他类型
 
-## 2.1 参考资料
+## 1.1 参考资料
 
 - [ Angular commit message guidelines](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-guidelines)
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
